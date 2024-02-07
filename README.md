@@ -13,3 +13,9 @@ This is a spring boot app that demos a simple shopping cart using in memory data
 - Clone repo
 - Go to root folder and run "gradlew.bat bootRun"
 - Once app is running, point your browser to localhost:8080/cartitems or go to http://localhost:8080/swagger-ui/index.html#/ to try it out
+
+## To Do 
+
+- Add support for persistence using Postgres or MySQL
+- Add support for inventory checking
+- More unit test coverage
